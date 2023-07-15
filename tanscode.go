@@ -59,7 +59,11 @@ const (
 	COMPANYNOTFOUND = "4013"
 
 	// USERALREADYEXPIRED this is bad request user already expired
-	USERALREADYEXPIRED = "4013"
+	USERALREADYEXPIRED = "4014"
+
+	// BALANCENOTENOUGH this is bad request Balance Not Enough expired
+	BALANCENOTENOUGH = "4015"
+
 
 	// INTERNALDBPROBLEM this is internal DB Problem
 	INTERNALDBPROBLEM = "5001"
